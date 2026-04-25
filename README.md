@@ -21,3 +21,7 @@ This application presents users with a series of common "hacks." Users must deci
 1. Clone the repository.
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator.
+
+
+
+Could never fix automated testing🙃.
