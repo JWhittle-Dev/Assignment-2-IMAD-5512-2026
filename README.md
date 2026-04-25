@@ -16,7 +16,6 @@ This application presents users with a series of common "hacks." Users must deci
 ## Technical Details
 - Language: Kotlin
 - Logic: parallel arrays for data storage and view visibility toggling for screen navigation.
-- CI/CD: Integrated with GitHub Actions to automate the build process and ensure code quality.
 
 ## How to Run
 1. Clone the repository.
